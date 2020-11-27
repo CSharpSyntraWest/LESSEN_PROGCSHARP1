@@ -1,0 +1,2 @@
+download in installeer SDK .Net Core 3.1 van deze website
+https://dotnet.microsoft.com/download/dotnet-core/3.1
